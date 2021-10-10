@@ -4,7 +4,7 @@ O jogo da Velha feita com python.
 
 # How to play? 🎮🕹
 
- 1- download the game clicking the button code and after clicking the download zip 
+ 1- download the game by clicking on the button code and then click on the download zip
 <br>
 or put this command in the terminal: "git clone https://github.com/yDanonin/Jogo_Da_Velha.git"
 
