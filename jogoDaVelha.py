@@ -48,12 +48,12 @@ def desenho(pos):
   x,y = pos
   if player == 2:
     player = 1
-    originalO = pygame.image.load("jogoDaVelha/zero.png").convert_alpha()
+    originalO = pygame.image.load("zero.png").convert_alpha()
     O = pygame.transform.scale(originalO, (100, 100))
     screen.blit(O, (x - 50, y - 50))
   else:
     player = 2
-    originalX = pygame.image.load("jogoDaVelha/x.png").convert_alpha()
+    originalX = pygame.image.load("x.png").convert_alpha()
     X = pygame.transform.scale(originalX, (100, 100))
     screen.blit(X, (x - 50, y - 50))
 
