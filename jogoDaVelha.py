@@ -6,6 +6,7 @@ size = width, height = 600, 600
 screen = pygame.display.set_mode(size)
 
 backgroundColor = 50, 72, 95
+screen.fill(backgroundColor)
 colorLine = 41, 61, 82 
 
 line_pos1 = (200, 0)
@@ -240,7 +241,7 @@ def campoClicado():
             return 0
 
 clock = pygame.time.Clock()
-screen.fill(backgroundColor)
+
 a = 1
 while True:
   clock.tick(20)
