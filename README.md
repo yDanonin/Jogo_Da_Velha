@@ -6,7 +6,7 @@ O jogo da Velha feita com python.
 
  1- download the game by clicking on the button code and then click on the download zip
 <br>
-or put this command in the terminal: "git clone https://github.com/yDanonin/Jogo_Da_Velha.git"
+or put this command in the terminal: ``git clone https://github.com/yDanonin/Jogo_Da_Velha.git``
 
 2- download python https://www.python.org/downloads/
 
