@@ -12,4 +12,4 @@ or put this command in the terminal: ``git clone https://github.com/yDanonin/Jog
 
 3- download pygame https://www.pygame.org/wiki/GettingStarted#Pygame%20Installation
 
-4- run in an IDE or run this command inside the folder: python jogoDaVelha.py
+4- run in an IDE or run this command inside the folder: ``python jogoDaVelha.py``
