@@ -1,5 +1,5 @@
 # Jogo_Da_Velha
-O jogo da Velha feita com python.
+Tic Tac Toe made with python.
 
 
 # How to play? 🎮🕹
